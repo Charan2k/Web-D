@@ -11,6 +11,8 @@ nav{
     color: grey;
     word-spacing: 20pt;
     font-family: monospace;
+    text-align: center;
+    font-size: xx-large;
 }
 .heading{
     text-align: center;
@@ -36,7 +38,6 @@ span:hover{
     color: antiquewhite;
     background-color:magenta;
 }
-
 .gitlink:hover{
     color: blue;
 }
